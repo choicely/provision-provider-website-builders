@@ -2,6 +2,10 @@
 
 All notable changes to the package will be documented in this file.
 
+## Unreleased
+
+- Implement Choicely provider
+
 ## v2.13.1 - 2026-01-13
 
 - Update Duda Provider to use provided template ID on create, or none, instead of switching template after create

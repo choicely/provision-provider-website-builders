@@ -44,6 +44,7 @@ Alternatively you can start using it for your business immediately with [Upmind.
 
 The following providers are currently implemented:
   - [BaseKit](https://apidocs.basekit.com/api/integration-guide/#api-method-overview)
+  - [Choicely](https://www.choicely.com/)
   - [Duda](https://developer.duda.co/docs/partner-api-introduction)
   - [Website.com](https://www.website.com/)
   - [Weebly](https://www.weebly.com/)
